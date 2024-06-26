@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OLXCategoryParser", "OLXCategoryParser\OLXCategoryParser.csproj", "{0DD13B8A-3C09-41EF-BF55-1D491078374D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parser", "Parser\Parser.csproj", "{CEE7AADB-D017-40DE-8294-C6F18FDE25DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OlxCustomerProfileParser", "OlxCustomerProfileParser\OlxCustomerProfileParser.csproj", "{547B140B-EFE7-45D5-A321-43F1D398F80A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DD13B8A-3C09-41EF-BF55-1D491078374D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DD13B8A-3C09-41EF-BF55-1D491078374D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DD13B8A-3C09-41EF-BF55-1D491078374D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DD13B8A-3C09-41EF-BF55-1D491078374D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEE7AADB-D017-40DE-8294-C6F18FDE25DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEE7AADB-D017-40DE-8294-C6F18FDE25DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEE7AADB-D017-40DE-8294-C6F18FDE25DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEE7AADB-D017-40DE-8294-C6F18FDE25DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{547B140B-EFE7-45D5-A321-43F1D398F80A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{547B140B-EFE7-45D5-A321-43F1D398F80A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{547B140B-EFE7-45D5-A321-43F1D398F80A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{547B140B-EFE7-45D5-A321-43F1D398F80A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
