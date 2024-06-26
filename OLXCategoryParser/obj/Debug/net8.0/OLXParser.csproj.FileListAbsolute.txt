@@ -1,0 +1,17 @@
+C:\Users\sisko\RiderProjects\OLXParser\OLXParser\bin\Debug\net8.0\OLXParser.exe
+C:\Users\sisko\RiderProjects\OLXParser\OLXParser\bin\Debug\net8.0\OLXParser.deps.json
+C:\Users\sisko\RiderProjects\OLXParser\OLXParser\bin\Debug\net8.0\OLXParser.runtimeconfig.json
+C:\Users\sisko\RiderProjects\OLXParser\OLXParser\bin\Debug\net8.0\OLXParser.dll
+C:\Users\sisko\RiderProjects\OLXParser\OLXParser\bin\Debug\net8.0\OLXParser.pdb
+C:\Users\sisko\RiderProjects\OLXParser\OLXParser\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\sisko\RiderProjects\OLXParser\OLXParser\obj\Debug\net8.0\OLXParser.csproj.AssemblyReference.cache
+C:\Users\sisko\RiderProjects\OLXParser\OLXParser\obj\Debug\net8.0\OLXParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sisko\RiderProjects\OLXParser\OLXParser\obj\Debug\net8.0\OLXParser.AssemblyInfoInputs.cache
+C:\Users\sisko\RiderProjects\OLXParser\OLXParser\obj\Debug\net8.0\OLXParser.AssemblyInfo.cs
+C:\Users\sisko\RiderProjects\OLXParser\OLXParser\obj\Debug\net8.0\OLXParser.csproj.CoreCompileInputs.cache
+C:\Users\sisko\RiderProjects\OLXParser\OLXParser\obj\Debug\net8.0\OLXParser.csproj.CopyComplete
+C:\Users\sisko\RiderProjects\OLXParser\OLXParser\obj\Debug\net8.0\OLXParser.dll
+C:\Users\sisko\RiderProjects\OLXParser\OLXParser\obj\Debug\net8.0\refint\OLXParser.dll
+C:\Users\sisko\RiderProjects\OLXParser\OLXParser\obj\Debug\net8.0\OLXParser.pdb
+C:\Users\sisko\RiderProjects\OLXParser\OLXParser\obj\Debug\net8.0\OLXParser.genruntimeconfig.cache
+C:\Users\sisko\RiderProjects\OLXParser\OLXParser\obj\Debug\net8.0\ref\OLXParser.dll
